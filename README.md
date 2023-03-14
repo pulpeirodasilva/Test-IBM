@@ -1,23 +1,28 @@
 # Test-IBM
- Aplicación entregada a modo de ejercicio para IBM
+ AplicaciÃ³n entregada a modo de ejercicio para IBM
  
- ** CÓMO EJECUTAR EL CÓDIGO FUENTE DE ESTA APLICACIÓN **
+ ** CÃ“MO EJECUTAR EL CÃ“DIGO FUENTE DE ESTA APLICACIÃ“N **
  
- 1. Abrir una terminal, y posicionarse en la carpeta donde esté guardado el código fuente entregado.
+ 1. Abrir una terminal, y posicionarse en la carpeta donde estÃ© guardado el cÃ³digo fuente entregado.
  
- 2. Compilar el código fuente mediante el siguiente comando. En caso de no mostrarse ningún mensaje de error, eso significa que la compilación se ha realizado con éxito:
+ 2. Compilar el cÃ³digo fuente mediante el siguiente comando. En caso de no mostrarse ningÃºn mensaje de error, eso significa que la compilaciÃ³n se ha realizado con Ã©xito:
  
  javac Test_confirming.java
  
- 3. Se generará el fichero "Test_confirming.class", que tendremos que ejecutar usando el siguiente comando:
+ 3. Se generarÃ¡ el fichero "Test_confirming.class", que tendremos que ejecutar usando el siguiente comando:
  
  java Test_confirming
  
- ** El fichero plano se generará con el nombre "Proveedores" en la misma carpeta donde se generó el fichero "Test_confirming.class **
+ ** El fichero plano se generarÃ¡ con el nombre "Proveedores" en la misma carpeta donde se generÃ³ el fichero "Test_confirming.class **
  
- ** A continuación se muestra una lista de las dependencias usadas: **
+ ** A continuaciÃ³n se muestra una lista de las dependencias usadas: **
  
  java.io.FileWriter;
+ 
+ 
  java.io.IOException;
+ 
+ 
  java.sql.*;
+ 
  
